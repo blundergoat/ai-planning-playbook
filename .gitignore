@@ -1,0 +1,15 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# AI agent working files
+.claude/
+.cursor/
+.aider*
