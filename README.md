@@ -4,7 +4,6 @@ Vibe-coding is fast until it isn't. Plan sharply and ship reliably with AI.
 
 Read the full article: [The Planning-First Playbook for AI-Assisted Development](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)
 
-Born from the ashes of [BlunderLab](https://github.com/blundergoat) — 882 commits, ~21,500 lines of Python, 70 releases, and nothing worked. The engineering standards were there. The planning wasn't.
 
 ## What's Inside
 
