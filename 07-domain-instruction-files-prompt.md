@@ -5,6 +5,8 @@
 > **Note:** The `.github/instructions/` path follows GitHub Copilot conventions. For other tools, adapt the location (e.g., `docs/instructions/`, `.cursor/rules/`).
 >
 > **Output:** One `{domain}.instructions.md` file per area of the codebase — reference these from your [hot-path context file](08-claude-md-hot-path-prompt.md).
+>
+> **Next step:** Create the [hot-path context file](08-claude-md-hot-path-prompt.md) that ties all cold-path files together.
 
 ```
 Create domain-specific instruction files in .github/instructions/ for each major area of this codebase. Each file should:

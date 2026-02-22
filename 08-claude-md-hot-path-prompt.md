@@ -3,6 +3,8 @@
 > **When to use:** After creating your [code map](05-code-map-prompt.md), [architecture diagrams](06-system-architecture-prompt.md), and [domain instruction files](07-domain-instruction-files-prompt.md). This prompt creates the lean router that ties them together.
 >
 > **What it creates:** Your project's hot-path context file (CLAUDE.md / AGENTS.md / GEMINI.md — whichever your AI tool uses). This file is loaded into every AI conversation, so every line must earn its place.
+>
+> **Next step:** Seed a [footguns file](09-footguns-prompt.md) to catch cross-cutting issues before they bite.
 
 ```
 Create a lean context file (~75 lines) that acts as a hot-path router.

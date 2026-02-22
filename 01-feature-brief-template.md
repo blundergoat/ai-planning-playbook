@@ -8,13 +8,13 @@ Create a `requirements-<feature-name>.md` file using the template below. A brain
 
 ---
 
-### Lean Hypothesis
+## Lean Hypothesis
 
 > We believe that **[building X]** for **[these users]** will **[achieve this outcome]**.
 > We will know we're right when we see **[this specific measurable signal]**.
 
 
-### Problem & Outcome
+## Problem & Outcome
 
 - **Current state:** How does it work today, or what is the manual workaround?
 - **Desired state:** What problem are we solving, and for whom?
@@ -31,7 +31,7 @@ Key workflows or scenarios.
 
 
 
-### Scope & Constraints
+## Scope & Constraints
 
 
 What is included? What is explicitly out of scope? 
@@ -52,7 +52,7 @@ Hard constraints (performance, compliance, budget, deadlines, accessibility, int
 *Expand during Mob Elaboration. Flag anything that affects architecture early.*
 
 
-### System & Impact
+## System & Impact
 
 Systems/services touched. Dependencies (APIs, data sources, infra). 
 Related work or existing solutions. Stakeholders involved.
@@ -80,7 +80,7 @@ Communication plan. Next steps. Approval & version history.
 
 
 
-### Mini Example - Bulk Report Export
+## Mini Example - Bulk Report Export
 
 **Lean Hypothesis:** We believe that giving clinic admins a one-click bulk export will reduce manual data requests to the support team by ~60%.
 

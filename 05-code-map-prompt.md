@@ -3,6 +3,8 @@
 > **When to use:** When setting up context files for a new or existing project. Creates a scannable reference for AI agents and developers to quickly understand the repo layout.
 >
 > **Output:** `docs/code-map.md` — reference this from your [hot-path context file](08-claude-md-hot-path-prompt.md).
+>
+> **Next step:** Generate [system architecture diagrams](06-system-architecture-prompt.md) to map how your system is wired.
 
 ```
 Create docs/code-map.md: a quick-reference tree map of the repository layout.
