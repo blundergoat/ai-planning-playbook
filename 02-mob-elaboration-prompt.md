@@ -26,3 +26,7 @@ Analyze my intent and ask exactly 3 to 5 clarifying questions, focusing on:
 2.  **Synthesis:** Once I give the final approval, you will synthesize our discussion into structured artifacts.
 3.  **Context Separation:** You must separate the resulting plan into our established hot and cold files. Update the active, hot file (CLAUDE.md / AGENTS.md / GEMINI.md) with the immediate task breakdown, current state, and core execution rules. Any broader structural blueprints, such as generated Mermaid diagrams or system architecture maps, must be saved as separate, cold reference files.
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*

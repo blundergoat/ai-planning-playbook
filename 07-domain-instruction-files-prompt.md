@@ -23,3 +23,7 @@ Create one file per distinct domain (e.g., backend language, frontend framework,
 
 Explore the codebase first to discover the actual conventions and patterns in use: don't invent new ones. Extract rules from what the code already does.
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*

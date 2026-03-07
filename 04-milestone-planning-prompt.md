@@ -68,3 +68,7 @@ For each milestone, provide:
 
 Now help me plan milestones for the project described in the attached requirements (attach `requirements-<feature-name>.md` and/or `TODO_feature-name_prime.md`).
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*

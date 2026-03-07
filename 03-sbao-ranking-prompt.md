@@ -37,3 +37,7 @@ I've reviewed these competing plans. Here's what I like and don't like:
 
 Create a best-of-all-ideas plan in `TODO_feature-name_prime.md` that incorporates the Keep items, avoids the Drop items, and makes a reasoned recommendation for each Decide item.
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*

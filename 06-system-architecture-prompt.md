@@ -20,3 +20,7 @@ Between each diagram, add 2-3 sentences explaining WHY things are wired that way
 The primary audience is an AI coding agent that needs to understand the system architecture before making changes. Optimize for scannability.
 Keep it under 150 lines.
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*

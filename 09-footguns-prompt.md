@@ -15,3 +15,7 @@ Read docs/footguns.md. If it doesn't exist, create it. Seed it with 2-3 footguns
 Then add this line to the Hard Rules section of CLAUDE.md / AGENTS.md / GEMINI.md:
 - **Log footguns.** When you cause a bug that spans multiple domains (e.g., API + frontend, infra + auth), append it to `docs/footguns.md` using the existing format before closing the task.
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*

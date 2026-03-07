@@ -94,3 +94,7 @@ Communication plan. Next steps. Approval & version history.
 
 **Acceptance is achieved when:** An admin can export 500 reports to CSV in under 30 seconds without a support ticket.
 
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*
+

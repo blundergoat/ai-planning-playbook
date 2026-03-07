@@ -26,3 +26,7 @@ Rules:
 - Note ports, stack choices, and tools inline where relevant
 - Keep it scannable: someone should understand the project layout in 30 seconds
 ```
+
+---
+
+*Source: [BlunderGoat](https://www.blundergoat.com) · [AI Planning Playbook](https://www.blundergoat.com/articles/planning-first-playbook-ai-development)*
